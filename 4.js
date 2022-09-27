@@ -4,13 +4,10 @@ function : first parameter is a function to be executed
 milliseconds : indicates the number of milliseconds before execution takes place.*/
 
 /*
-<button onclick="setTimeout(myFunction, 3000)">Try it</button>
-
-<script>
 function myFunction() {
   alert('Hello');
+  Console.log("Hello World ") ;
 }
-</script>
 */
 
 
