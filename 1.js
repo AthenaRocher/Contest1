@@ -1,4 +1,4 @@
-const reverse1(str)=>
+const reverse1=(str)=>
 {
     let r = "";
     for(let i=str.length-1;i>=0;i--){
@@ -6,5 +6,5 @@ const reverse1(str)=>
     }
     return r;
 }
-  
+
 console.log(reverse1("javascript"));
